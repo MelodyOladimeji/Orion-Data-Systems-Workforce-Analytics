@@ -18,7 +18,8 @@ This report addresses the following key questions:
 The insights in this report were derived by querying and cross-referencing core organizational tables, including the countries, employees and departments datasets.
 
 ## **Data Preview**
-![Data-screenshot](Data-screenshot.png)
+![Data-screenshot](Data-screenshot.png) ![Data-Screensot](Data-Screensot.png)
+
 
 
 ## **Detailed Findings & Analysis**
