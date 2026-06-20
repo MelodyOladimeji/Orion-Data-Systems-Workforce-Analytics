@@ -20,7 +20,7 @@ The insights in this report were derived by querying and cross-referencing core 
 ## **Data Preview**
 ![Data-screenshot](Data-screenshot.png) ![Data-Screensot](Data-Screensot.png)
 
-
+[![Click Here](https://img.shields.io/badge/Click_Here-View_SQL_Script-blue?style=for-the-badge)](https://github.com/MelodyOladimeji/Orion-Data-Systems-Workforce-Analytics/blob/main/Melody_Oladimeji.sql)
 
 ## **Detailed Findings & Analysis**
 ### **Key Performance Indicators**
